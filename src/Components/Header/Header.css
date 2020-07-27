@@ -1,0 +1,41 @@
+.Navbar {
+  height: 60px;
+  background: linear-gradient(180deg, rgba(31, 194, 216, 0.7) 0%, rgba(14, 75, 75, 0.7)0%);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+  box-shadow: 0px 4px 13px rgba(0, 0, 0, 0.07);
+}
+
+.author{
+  padding: 4em 0em 1.8em;
+}
+.Header {
+  height: 70px;
+  background: linear-gradient(180deg, rgba(236, 236, 236, 0.7) 0%, rgba(254, 254, 254, 0.7) 100%);
+  display: flex;
+  align-items: center;
+}
+
+.input-name {
+  width: 75.2em;
+  margin-top: 0.3em;
+  border-width: 0px;
+  background: linear-gradient(180deg, rgba(236, 236, 236, 0.7) 0%, rgba(254, 254, 254, 0.7) 100%);
+  font-weight: bold;
+  font-size: 20px;
+  font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+
+.header-title p{
+  margin-top: -35px;
+  font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding-left: 0.2em;
+}

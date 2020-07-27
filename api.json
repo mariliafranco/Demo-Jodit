@@ -1,0 +1,16 @@
+{
+  "home": {
+    "foto": "http://trydo.rainbowit.net/assets/images/about/about-7.jpg",
+    "nome": "Maria Santos",
+    "resumo": "Estudante de Programação, adoro seguir hypes e desenvolver novas skills Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, facilis quam rem dicta tempora dolorem. Dolores, autem illo possimus earum, pariatur, maiores deleniti corporis modi omnis laudantium hic a asperiores!",
+    "stacks": [
+      "React",
+      "Redux",
+      "JSX",
+      "Consumo de APIs Rest",
+      "ES6+",
+      "HTML",
+      "CSS"
+    ]
+  }
+}
